@@ -5,7 +5,7 @@ Tout au cours de ce TP, chaque apprenant va ajouter son nom à cette liste
 1. 
 2. 
 3. 
-4. 
+4. Delphine Donné
 5. 
 6. 
 7. 
